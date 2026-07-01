@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6e0151/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0151/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴清涼國師禮讚文
+  identifiers:
+    krp: KR6e0151
+    cbeta: X74n1471
+    cbeta_old_id: X74n1471
+    authorityid: CA0001444
+    json_key: X1471
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1471.xml
+    old_id: X74n1471
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0151_000-X.yaml, hash: 'sha256:e2e8b34dbd64db060b3428fa2787abb55cb021bd59396805c0411b7bde4b3d9a'}
+  - {seq: 1, filename: KR6e0151_001-X.yaml, hash: 'sha256:1f36d1e27995888ec6fc2615cf2e0f27b2f33999e5096019d8203f4bac4e9fd3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0151_000-X.markers.yaml, hash: 'sha256:83bd5214e97cf47a0d0b22406904c8983c3b22ec1910829e4279145bc32dae7d'}
+  - {seq: 1, role: markers, filename: assets/KR6e0151_001-X.markers.yaml, hash: 'sha256:687d8d1b855b92eb65ddd43648bd6ef5c47259e763b40f75cbca288d7015e25b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0151_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3093
+  label: 華嚴清涼國師禮讚文并敘
+  type: juan
+  level: 1
+hash: sha256:41e18c08ac3193737e7845ebc087131faba0eb32a95fd1b608a8820c4185864c

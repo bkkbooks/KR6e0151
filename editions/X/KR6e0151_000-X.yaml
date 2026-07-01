@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0151/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴清涼國師禮讚文
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1471.xml
+    old_id: X74n1471
+hash: sha256:e2e8b34dbd64db060b3428fa2787abb55cb021bd59396805c0411b7bde4b3d9a
