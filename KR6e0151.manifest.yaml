@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0151_000.yaml, hash: 'sha256:e2e8b34dbd64db060b3428fa2787abb55cb021bd59396805c0411b7bde4b3d9a'}
-  - {seq: 1, filename: KR6e0151_001.yaml, hash: 'sha256:140bbf1e0b352a63a5b16f103924f929dc18f798e7d111199847140bad4c9e4c'}
+  - {seq: 1, filename: KR6e0151_001.yaml, hash: 'sha256:1f36d1e27995888ec6fc2615cf2e0f27b2f33999e5096019d8203f4bac4e9fd3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0151_001.markers.yaml, hash: 'sha256:07d6205299951f66b04cbc703290d4574853874e3faf2a76bb8882843fb7058c'}
+  - {seq: 0, role: markers, filename: assets/KR6e0151_000.markers.yaml, hash: 'sha256:85a6fe2459b4f62a35ef74af7522794d2fc61df3b8e170e94ddce1fbbdaa4def'}
+  - {seq: 1, role: markers, filename: assets/KR6e0151_001.markers.yaml, hash: 'sha256:eda249941f2a3600bf1cdc0f544ccf693803e03843def350f1543a8cc0e37b17'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 華嚴清涼國師禮讚文并敘
   type: juan
   level: 1
-hash: sha256:ed286eb5dccfc3bb0fe01b7fbfbfa66b5c3968cdbe84fbea08916b9ea525ee58
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6f7a4b9947efaafdd90d24652b5e88624081484a8ebb6fdeb86d77fd19614bc5
