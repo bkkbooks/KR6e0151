@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0151/v1
 canonical_location: https://kanripo.org/bkk/KR6e0151/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 華嚴清涼國師禮讚文
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0151_000.yaml, hash: 'sha256:e2e8b34dbd64db060b3428fa2787abb55cb021bd59396805c0411b7bde4b3d9a'}
-  - {seq: 1, filename: KR6e0151_001.yaml, hash: 'sha256:1f36d1e27995888ec6fc2615cf2e0f27b2f33999e5096019d8203f4bac4e9fd3'}
+  - {seq: 1, filename: KR6e0151_001.yaml, hash: 'sha256:4da60024dc62326fa0443ac8487355d59dd1a051a620ce64ec5c8a2bc7470f3d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0151_000.markers.yaml, hash: 'sha256:85a6fe2459b4f62a35ef74af7522794d2fc61df3b8e170e94ddce1fbbdaa4def'}
-  - {seq: 1, role: markers, filename: assets/KR6e0151_001.markers.yaml, hash: 'sha256:eda249941f2a3600bf1cdc0f544ccf693803e03843def350f1543a8cc0e37b17'}
+  - {seq: 1, role: markers, filename: assets/KR6e0151_001.markers.yaml, hash: 'sha256:568e8870c3b5729b9e984e8b5b56ee52a1662a0417e206b963a405ce280fb34b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 華嚴清涼國師禮讚文并敘
   type: juan
   level: 1
-hash: sha256:6f7a4b9947efaafdd90d24652b5e88624081484a8ebb6fdeb86d77fd19614bc5
+hash: sha256:90b02b98d6094d4d379bad50b6a38100a7a71265225be63bc24a16c5b3c0c742
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
